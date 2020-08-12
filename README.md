@@ -1,2 +1,1 @@
-#Personal Projects
-these are my attempts at creating some personal projects both according to and inspired by tutorials
+Here are my attempts at some beginner personal projects.
